@@ -1,1 +1,1 @@
-# lcm-algorithm
+### try to refactor by using the Euclidean equation
